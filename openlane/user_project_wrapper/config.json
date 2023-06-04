@@ -13,10 +13,10 @@
     "MAGIC_DEF_LABELS": 0,
     "VERILOG_FILES_BLACKBOX": [
         "dir::../../verilog/rtl/defines.v",
-        "dir::../../verilog/rtl/user_proj_example.v"
+        "dir::../../verilog/rtl/user_proj_mul32.v"
     ],
-    "EXTRA_LEFS": "dir::../../lef/user_proj_example.lef",
-    "EXTRA_GDS_FILES": "dir::../../gds/user_proj_example.gds",
+    "EXTRA_LEFS": "dir::../../lef/user_proj_mul32.lef",
+    "EXTRA_GDS_FILES": "dir::../../gds/user_proj_mul32.gds",
     "BASE_SDC_FILE": "dir::base_user_project_wrapper.sdc",
     "IO_SYNC": 0,
     "FP_PDN_CHECK_NODES": 0,
@@ -55,6 +55,7 @@
     "FP_PDN_HWIDTH": 3.1,
     "FP_PDN_VSPACING": "expr::(5 * $FP_PDN_CORE_RING_VWIDTH)",
     "FP_PDN_HSPACING": "expr::(5 * $FP_PDN_CORE_RING_HWIDTH)",
+    "GLB_RT_ADJUSTMENT": 0.05,
     "VDD_NETS": [
         "vccd1",
         "vccd2",

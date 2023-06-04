@@ -1,0 +1,1 @@
+/home/nouran/user_proj_mul32/dependencies/pdks/sky130A/libs.ref/sky130_ml_xx_hd/scripts/text2mag.py

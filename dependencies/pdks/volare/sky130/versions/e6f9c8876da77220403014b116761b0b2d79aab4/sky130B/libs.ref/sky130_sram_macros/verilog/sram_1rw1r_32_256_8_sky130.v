@@ -1,0 +1,1 @@
+/home/nouran/user_proj_mul32/dependencies/pdks/sky130A/libs.ref/sky130_sram_macros/verilog/sram_1rw1r_32_256_8_sky130.v

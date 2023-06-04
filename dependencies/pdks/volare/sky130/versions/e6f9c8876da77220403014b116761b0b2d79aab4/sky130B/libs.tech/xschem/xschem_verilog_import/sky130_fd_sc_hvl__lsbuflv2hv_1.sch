@@ -1,0 +1,1 @@
+/home/nouran/user_proj_mul32/dependencies/pdks/sky130A/libs.tech/xschem/xschem_verilog_import/sky130_fd_sc_hvl__lsbuflv2hv_1.sch

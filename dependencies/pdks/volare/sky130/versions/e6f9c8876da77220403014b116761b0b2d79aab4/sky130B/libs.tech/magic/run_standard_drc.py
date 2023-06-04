@@ -1,0 +1,1 @@
+/home/nouran/user_proj_mul32/dependencies/pdks/sky130A/libs.tech/magic/run_standard_drc.py
